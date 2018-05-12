@@ -1,0 +1,28 @@
+_repo: Sleep-BookSome-of-the-Poetry-of-Slumber_16637
+_version: 0.1.0
+contributor:
+  compiler:
+    agent_name: Everett, Leolyn Louise
+    birthdate: 1888
+    gutenberg_agent_id: '38752'
+    url: http://www.gutenberg.org/2009/agents/38752
+covers:
+- cover_type: archival
+  image_path: 16637-h/images/bookcover.jpg
+description: ''
+gutenberg_issued: '2005-09-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16637'
+  lccn: '10030051'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Sleep -- Poetry'
+title: 'Sleep-Book
+
+  Some of the Poetry of Slumber'
+url: http://www.gutenberg.org/ebooks/16637
